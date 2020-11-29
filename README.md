@@ -28,6 +28,9 @@ Removed due to bugs.
 
 ### V2
 This is a modified version of the official access control example.
+#### Flow
+![V2-flow](media/V2-flow.drawio.png)
+#### Features
 * Records stored in ESP8266 SPIFFS as a JSON file.
 * Using UID to identify different RFID cards.
 * UID are SHA1 hashed and then stored.
